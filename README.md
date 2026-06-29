@@ -1,4 +1,4 @@
-# Student Inforamtion System
+# Student Information System
 My first Python project
 
 ##Features
